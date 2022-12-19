@@ -17,8 +17,11 @@ To create a smart application to detect the freshness of the food.
 
 Algorithm:
 1.First User has to input data about the fruit and its appearance.
+
 2.Based on the appearance it will check process.
+
 3.And after processing based on the data it will predict it’s Edibility.
+
 4.The Condition will be displayed.
 
 Thus, the program to check the edibility of the fruit has executed 
